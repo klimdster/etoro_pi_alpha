@@ -1,0 +1,23 @@
+Cap Weighted Strategy:
+       Annual Return: 0.3763
+   Annual Volatility: 0.2662
+        Sharpe Ratio: 1.4135
+        Max Drawdown: -0.4902
+            95% CVaR: -0.0399
+       Sortino Ratio: 1.8595
+
+Equal Weighted Strategy:
+       Annual Return: 0.2653
+   Annual Volatility: 0.2153
+        Sharpe Ratio: 1.2322
+        Max Drawdown: -0.4169
+            95% CVaR: -0.0330
+       Sortino Ratio: 1.5622
+
+CVaR Optimized Strategy:
+       Annual Return: 0.1402
+   Annual Volatility: 0.1291
+        Sharpe Ratio: 1.0861
+        Max Drawdown: -0.2501
+            95% CVaR: -0.0194
+       Sortino Ratio: 1.3453

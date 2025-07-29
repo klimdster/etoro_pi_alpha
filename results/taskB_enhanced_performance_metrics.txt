@@ -1,0 +1,40 @@
+Cap Weighted Strategy:
+       Annual Return: 0.6296
+   Annual Volatility: 0.3707
+        Sharpe Ratio: 1.6985
+        Max Drawdown: -0.4902
+            95% CVaR: -0.0520
+       Sortino Ratio: 2.4265
+
+Equal Weighted Strategy:
+       Annual Return: 0.3824
+   Annual Volatility: 0.2941
+        Sharpe Ratio: 1.3003
+        Max Drawdown: -0.4169
+            95% CVaR: -0.0428
+       Sortino Ratio: 1.7597
+
+Standard CVaR Strategy:
+       Annual Return: 0.1335
+   Annual Volatility: 0.1588
+        Sharpe Ratio: 0.8408
+        Max Drawdown: -0.2460
+            95% CVaR: -0.0230
+       Sortino Ratio: 1.0480
+
+Enhanced CVaR Strategy:
+       Annual Return: 0.1328
+   Annual Volatility: 0.1588
+        Sharpe Ratio: 0.8359
+        Max Drawdown: -0.2460
+            95% CVaR: -0.0230
+       Sortino Ratio: 1.0422
+
+Regime Model Feature Importance:
+     feature  importance
+5        DFF    0.439649
+2      GDPC1    0.410820
+4   FEDFUNDS    0.064044
+1   CPIAUCSL    0.063762
+3  GDPC1_PCT    0.021725
+0      USREC    0.000000
